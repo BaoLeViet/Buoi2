@@ -1,0 +1,14 @@
+/Users/lebao/Downloads/BaiTap/Buoi2/bin/Debug/net8.0/Buoi2
+/Users/lebao/Downloads/BaiTap/Buoi2/bin/Debug/net8.0/Buoi2.deps.json
+/Users/lebao/Downloads/BaiTap/Buoi2/bin/Debug/net8.0/Buoi2.runtimeconfig.json
+/Users/lebao/Downloads/BaiTap/Buoi2/bin/Debug/net8.0/Buoi2.dll
+/Users/lebao/Downloads/BaiTap/Buoi2/bin/Debug/net8.0/Buoi2.pdb
+/Users/lebao/Downloads/BaiTap/Buoi2/obj/Debug/net8.0/Buoi2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lebao/Downloads/BaiTap/Buoi2/obj/Debug/net8.0/Buoi2.AssemblyInfoInputs.cache
+/Users/lebao/Downloads/BaiTap/Buoi2/obj/Debug/net8.0/Buoi2.AssemblyInfo.cs
+/Users/lebao/Downloads/BaiTap/Buoi2/obj/Debug/net8.0/Buoi2.csproj.CoreCompileInputs.cache
+/Users/lebao/Downloads/BaiTap/Buoi2/obj/Debug/net8.0/Buoi2.dll
+/Users/lebao/Downloads/BaiTap/Buoi2/obj/Debug/net8.0/refint/Buoi2.dll
+/Users/lebao/Downloads/BaiTap/Buoi2/obj/Debug/net8.0/Buoi2.pdb
+/Users/lebao/Downloads/BaiTap/Buoi2/obj/Debug/net8.0/Buoi2.genruntimeconfig.cache
+/Users/lebao/Downloads/BaiTap/Buoi2/obj/Debug/net8.0/ref/Buoi2.dll
